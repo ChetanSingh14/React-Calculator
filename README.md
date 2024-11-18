@@ -14,4 +14,4 @@ git clone (https://github.com/Prateek-Fst/React-Calculator.git)
 npm install
 npm start
 How to use
-Enter numbers and operators using the on-screen buttons. Press "=" to calculate the result. Press "C" to clear the input. Press "<x" to delete the last character. Technologies Used React JSX CSS
+Enter numbers and operators using the on-screen buttons. Press "=" to calculate the result. Press "C" to clear the input. Press "<x" to delete the last character. Technologies Used React JSX CSS.
