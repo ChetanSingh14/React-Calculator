@@ -10,7 +10,7 @@ Clear the input
 Delete the last character
 Usage
 Clone the repository:
-git clone (https://github.com/Prateek-Fst/React-Calculator.git)
+git clone (https://github.com/ChetanSingh14/React-Calculator.git)
 npm install
 npm start
 How to use
